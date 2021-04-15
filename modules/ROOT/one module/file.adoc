@@ -1,4 +1,0 @@
-= This is my first trial
-== Hello 
-=== How are you doing
-==== testing
