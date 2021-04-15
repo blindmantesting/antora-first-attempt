@@ -1,0 +1,5 @@
+name: Antora Test 1
+title: versions of our documentation
+version: main
+nav:
+- modules/ROOT/nav.adoc
