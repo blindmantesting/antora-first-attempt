@@ -2,4 +2,4 @@
 
 *Video*:
 
-video::4R5mDpIgwUs&list=RD4R5mDpIgwUs&start_radio=1[youtube]
+video::4R5mDpIgwUs&list=RD4R5mDpIgwUs&start_radio[youtube]
