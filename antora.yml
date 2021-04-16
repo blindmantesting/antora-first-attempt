@@ -1,5 +1,5 @@
 name: Antora Test 1
-title: RW&MWC Test
+title: Table of Content
 version: main
 nav: 
 - modules/module-one/nav.adoc
