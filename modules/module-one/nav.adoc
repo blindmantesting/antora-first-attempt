@@ -1,0 +1,5 @@
+== Table of Contents
+*xref:1.adoc[What is X]
+*xref:2.adoc[How it is going to help the team]
+*xref:3.adoc[How to explore it]
+*xref:4.adoc[AI Part]
