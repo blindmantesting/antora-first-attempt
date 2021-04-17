@@ -4,7 +4,7 @@
     
     ** xref:1.2.adoc[what is x.2]
     
-    ***xref:1.2.1.adoc[what is x.2.1]
+    *** xref:1.2.1.adoc[what is x.2.1]
 
 * xref:2.adoc[How it is going to help the team]
 
