@@ -1,9 +1,11 @@
 * xref:1.adoc[What is X]
 
-    * xref:1.1adoc[what is x.1]
+    ** xref:1.1adoc[what is x.1]
 
 * xref:2.adoc[How it is going to help the team]
 
 * xref:3.adoc[How to explore it]
 
 * xref:4.adoc[AI Part]
+
+
