@@ -1,4 +1,4 @@
-# antora-test
+# antora-templates
 
 Syntax - quick - reference:
 
