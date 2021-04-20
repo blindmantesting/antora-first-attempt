@@ -2,4 +2,4 @@ name: Product Documentation
 title: Company
 version: main
 nav:
-- modules/ROOT/nav.adoc
+- modules/modules-one/nav.adoc
