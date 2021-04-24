@@ -1,1 +1,3 @@
-= Hello 
+= Hello and Welcome to the User Guide
+
+
