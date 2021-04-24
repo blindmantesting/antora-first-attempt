@@ -1,5 +1,5 @@
-name: Product Documentation
-title: Company
+name: Documentation
+title: User Guide
 version: main
 nav:
 - modules/ROOT/nav.adoc
