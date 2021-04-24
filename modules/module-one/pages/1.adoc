@@ -4,6 +4,4 @@
 == Hello
 
 === Hello
-
-
-                                                                               image:book.jpg[]
+image:book.jpg[]
