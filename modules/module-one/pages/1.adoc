@@ -6,4 +6,4 @@
 === Hello
 
 
-                                                                                                                                                                        image::book.JPG[]
+                                                                                                                                                                        image::book.jpg[]
