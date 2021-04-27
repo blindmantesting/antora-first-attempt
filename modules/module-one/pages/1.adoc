@@ -8,4 +8,4 @@
 Here you can find the image of the book i was searching about from a long time ----------------- >  
 
 
-image::logo.png[float="right"]
+image::logo.png[logo,150,150,float="right"]
