@@ -1,6 +1,0 @@
-name: Documentation
-title: User Guide
-version: main
-nav:
-- modules/ROOT/nav.adoc
-- modules/module-one/nav.adoc
