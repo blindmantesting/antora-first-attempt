@@ -1,5 +1,5 @@
 name: Documentation
-title: User Guide
+title: Welcome
 version: main
 nav:
 - modules/ROOT/nav.adoc
