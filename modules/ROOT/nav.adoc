@@ -1,2 +1,3 @@
  * xref:index.adoc[Welcome]
 
+ * xref:1.0.1@anything:module-one:nav.adoc[link text]
