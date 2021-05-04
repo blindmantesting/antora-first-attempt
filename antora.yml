@@ -1,5 +1,5 @@
-name: Documentation-2
+name: docs
 title: User Guide
-version: main
+version: branch-1
 nav:
 - modules/module-one/nav.adoc
