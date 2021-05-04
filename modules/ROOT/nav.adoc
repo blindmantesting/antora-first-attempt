@@ -1,3 +1,2 @@
  * xref:index.adoc[Welcome]
 
- * xref:branch-1@docs:module-one:1.1.adoc[link text]
