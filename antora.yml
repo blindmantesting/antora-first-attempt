@@ -1,7 +1,6 @@
 name: Documentation
 title: Welcome
 version: main
-start_page:
 nav:
 - modules/ROOT/nav.adoc
 - modules/module-one/nav.adoc
