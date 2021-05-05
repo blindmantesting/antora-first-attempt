@@ -1,1 +1,1 @@
-* xref:hello.adoc[Version 1.0.1 New Features]
+* xref:index.adoc[Version 1.0.1 New Features]
