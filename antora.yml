@@ -2,5 +2,5 @@ name: main repo
 title: Welcome
 version: main
 nav:
-- modules/ROOT/nav.adoc
+- modules/ROOT
 - modules/module-one/nav.adoc
