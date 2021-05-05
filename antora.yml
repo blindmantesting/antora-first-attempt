@@ -2,6 +2,5 @@ name: anything
 title: Love
 version: 1.0.1
 nav:
-- modules/ROOT/nav.adoc
 - modules/module-one/nav.adoc
 
