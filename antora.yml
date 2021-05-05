@@ -1,5 +1,5 @@
-name: anything
-title: V-
+name: branch 
+title: V-1.0.1
 version: 1.0.1
 nav:
 - modules/ROOT/nav.adoc
