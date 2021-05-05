@@ -1,3 +1,4 @@
 = Hello and Welcome to the User Guide
 :page-layout: default
 
+This is the first page in the whole Guide
