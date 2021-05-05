@@ -2,3 +2,6 @@
 :page-layout: default
 
 This is the first page in the whole Guide
+
+
+This is the first page that will appear for the customer when he open the website.
