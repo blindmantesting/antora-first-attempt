@@ -3,4 +3,4 @@ title: Welcome
 version: main
 nav:
 - modules/ROOT
-- modules/module-one/nav.adoc
+- modules/module-one
