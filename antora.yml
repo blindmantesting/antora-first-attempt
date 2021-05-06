@@ -1,6 +1,6 @@
 name: branch 
-title: V-1.0.1
-version: branch-1
+title: V-1.0.2
+version: branch-2
 nav:
 - modules/ROOT/nav.adoc
 - modules/module-one/nav.adoc
