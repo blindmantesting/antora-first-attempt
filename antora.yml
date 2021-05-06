@@ -1,6 +1,6 @@
 name: main repo
-title: Welcome
-version: main
+title: SysDICE
+version: Welcome
 nav:
 - modules/ROOT
 - modules/module-one/nav.adoc
