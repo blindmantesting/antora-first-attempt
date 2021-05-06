@@ -1,5 +1,5 @@
 name: branch 
-title: Version
+title: SysDICE
 version: 1.0.2
 nav:
 - modules/ROOT/nav.adoc
